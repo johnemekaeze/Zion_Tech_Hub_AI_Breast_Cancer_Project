@@ -83,7 +83,8 @@ Brand Color: #3370E7
 
 ## Author
 
-Dr. Nzube Anthony Anyanwu
+Dr. Nzube Anthony Anyanwu  
+Mr. John Eze
 
 ## License
 
